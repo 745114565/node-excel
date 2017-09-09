@@ -32,7 +32,7 @@ var list = xlsx.parse("./excel/" + excelName);
 
 * 读出后是数组，包含每个sheet
 
-``` json
+``` txt
   [
 
       { name: 'sheet1',data: [ [Object], [Object], [Object], [Object], [Object] ] },
