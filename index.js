@@ -62,7 +62,11 @@ for (var l = 2;l<obj.length;l++){
                             style.value = valueArr[0];
                             for(var k = 0 ;k<valueArr.length; k++){
                                 var option = {};
-                                option.shape = valueArr[k]||'';
+                                var _value = '';
+                                if(valueArr[k]){
+                                    _value = valueArr[k] ? valueArr[k].replace('\n',''):'';
+                                }
+                                option.shape = '';
                                 option.size = '0cm';
                                 option.imageUrl = '';
                                 options.push(option);
@@ -70,8 +74,9 @@ for (var l = 2;l<obj.length;l++){
                             
                         }else{
                             var option = {};
-                            option.shape = valueCell;
-                            style.value = valueCell;
+                            var _value = valueCell ? valueCell.replace('\n',''):'';
+                            option.shape = _value
+                            style.value = _value;
                             option.size = '0cm';
                             option.imageUrl = '';
                             options.push(option);
