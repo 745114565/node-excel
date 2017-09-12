@@ -63,14 +63,14 @@ for (var l = 2;l<10;l++){
                         if(valueArr.length>1){
                             style.variable = true;
                             style.value = valueArr[0];
-                            if(style.name=='驳宽' && +valueArr[0]!='NaN' && typeof +valueArr[0]=='number') style.value = (+valueArr[0]).toFixed(1);
+                            if(style.name=='驳宽' && !isNaN(+valueArr[0])) style.value = (+valueArr[0]).toFixed(1);
                             for(var k = 0 ;k<valueArr.length; k++){
                                 var option = {};
                                 var _value1 = '';
                                 if(valueArr[k]){
                                     _value1 = valueArr[k] ? valueArr[k].replace('\n',''):'';
                                 }
-                                if(style.name=='驳宽'  && +_value1!=NaN && typeof +_value1=='number') _value1 = (+_value1).toFixed(1);
+                                if(style.name=='驳宽'  && !isNaN(+_value1) ) _value1 = (+_value1).toFixed(1);
                                 option.shape = _value1;
                                 option.size = '';
                                 option.imageUrl = '';
@@ -80,8 +80,7 @@ for (var l = 2;l<10;l++){
                         }else{
                             var option = {};
                             var _value = valueCell ? valueCell.replace('\n',''):'';
-                            console.log(typeof _value,_value,+_value);
-                            if(style.name=='驳宽' && +_value!=NaN && typeof +_value=='number')  _value = (+_value).toFixed(1);
+                            if(style.name=='驳宽' && !isNaN(+_value))  _value = (+_value).toFixed(1);
                             option.shape = _value
                             style.value = _value;
 
@@ -109,7 +108,7 @@ for (var l = 2;l<10;l++){
 	}
 	
 }
-// console.log(factoryClothingModelStyleDefs);
+console.log(factoryClothingModelStyleDefs instanceof Array);
 var wPath = 'result/factoryClothingModelStyleDefs'+ (+new Date())+'.json'
 fs.writeFile(wPath, JSON.stringify(factoryClothingModelStyleDefs),  function(err) {
    if (err) {
@@ -118,13 +117,3 @@ fs.writeFile(wPath, JSON.stringify(factoryClothingModelStyleDefs),  function(err
    console.log("数据写入成功！");
 
 });
-
-// console.log(demos);
-//写入第二个sheet
-// const data = [[1, 2, 3], [true, false, null, 'sheetjs'], ['foo', 'bar', new Date('2014-02-19T14:30Z'), '0.3'], ['baz', null, 'qux']];
-// var buffer = xlsx.build([{name: "Sheet4", data: data}]);
-// console.log(buffer.toString());
-// fs.writeFileSync('result/savepath.xlsx',buffer,{'flag':'w'});
-// for(var i=0;i<obj[0].data.length;i++)  
-//     for(var j=0;j<obj[0].data[0].length;j++)  
-// 		console.log(obj[0].data[i][j]); 
