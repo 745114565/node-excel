@@ -1,0 +1,8738 @@
+[
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/1.jpg"],
+    "modelVersion": "1KN001",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "7.8",
+        "options": [
+        {
+            "shape": "7.8",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/2.jpg"],
+    "modelVersion": "1KN002",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "6.0",
+        "options": [
+        {
+            "shape": "6.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/3.jpg"],
+    "modelVersion": "1KN003",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "7.8",
+        "options": [
+        {
+            "shape": "7.8",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "半里",
+        "options": [
+        {
+            "shape": "半里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/4.jpg"],
+    "modelVersion": "1KN004",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "8.3",
+        "options": [
+        {
+            "shape": "8.3",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "一扣",
+        "options": [
+        {
+            "shape": "一扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/5.jpg"],
+    "modelVersion": "1KN005",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "8.3",
+        "options": [
+        {
+            "shape": "8.3",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/6.jpg"],
+    "modelVersion": "1KN006",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "9.5",
+        "options": [
+        {
+            "shape": "9.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/7.jpg"],
+    "modelVersion": "1KN007",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "7.8",
+        "options": [
+        {
+            "shape": "7.8",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣半",
+        "options": [
+        {
+            "shape": "二扣半",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/8.jpg"],
+    "modelVersion": "1KN008",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "9.5",
+        "options": [
+        {
+            "shape": "9.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣半",
+        "options": [
+        {
+            "shape": "二扣半",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/9.jpg"],
+    "modelVersion": "1KN009",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "9.5",
+        "options": [
+        {
+            "shape": "9.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "一扣",
+        "options": [
+        {
+            "shape": "一扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/10.jpg"],
+    "modelVersion": "1KN010",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "11.0",
+        "options": [
+        {
+            "shape": "11.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "六扣二",
+        "options": [
+        {
+            "shape": "六扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/11.jpg"],
+    "modelVersion": "1KN014",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "7.8",
+        "options": [
+        {
+            "shape": "7.8",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "无里",
+        "options": [
+        {
+            "shape": "无里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/12.jpg"],
+    "modelVersion": "1KN015",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "9.5",
+        "options": [
+        {
+            "shape": "9.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "半里",
+        "options": [
+        {
+            "shape": "半里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/13.jpg"],
+    "modelVersion": "1KN016",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "9.5",
+        "options": [
+        {
+            "shape": "9.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "无里",
+        "options": [
+        {
+            "shape": "无里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/14.jpg"],
+    "modelVersion": "1KN017",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "11.0",
+        "options": [
+        {
+            "shape": "11.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "六扣二",
+        "options": [
+        {
+            "shape": "六扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "半里",
+        "options": [
+        {
+            "shape": "半里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/15.jpg"],
+    "modelVersion": "1KN018",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "9.0",
+        "options": [
+        {
+            "shape": "9.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/16.jpg"],
+    "modelVersion": "1KN019",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "9.0",
+        "options": [
+        {
+            "shape": "9.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "半里",
+        "options": [
+        {
+            "shape": "半里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/17.jpg"],
+    "modelVersion": "1KN020",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "9.0",
+        "options": [
+        {
+            "shape": "9.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣半",
+        "options": [
+        {
+            "shape": "二扣半",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/18.jpg"],
+    "modelVersion": "1KN021",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "9.0",
+        "options": [
+        {
+            "shape": "9.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣半",
+        "options": [
+        {
+            "shape": "二扣半",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "半里",
+        "options": [
+        {
+            "shape": "半里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/19.jpg"],
+    "modelVersion": "1KN022",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "11.0",
+        "options": [
+        {
+            "shape": "11.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/20.jpg"],
+    "modelVersion": "1KN023",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "6.0",
+        "options": [
+        {
+            "shape": "6.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "半里",
+        "options": [
+        {
+            "shape": "半里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/21.jpg"],
+    "modelVersion": "1KN024",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "11.0",
+        "options": [
+        {
+            "shape": "11.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "半里",
+        "options": [
+        {
+            "shape": "半里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/22.jpg"],
+    "modelVersion": "1KN027",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "9.0",
+        "options": [
+        {
+            "shape": "9.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "无里",
+        "options": [
+        {
+            "shape": "无里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/23.jpg"],
+    "modelVersion": "1KN028",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "青果领",
+        "options": [
+        {
+            "shape": "青果领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "7.5",
+        "options": [
+        {
+            "shape": "7.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "一扣",
+        "options": [
+        {
+            "shape": "一扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/24.jpg"],
+    "modelVersion": "1KN029",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "青果领",
+        "options": [
+        {
+            "shape": "青果领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "4.5",
+        "options": [
+        {
+            "shape": "4.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "一扣",
+        "options": [
+        {
+            "shape": "一扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/25.jpg"],
+    "modelVersion": "1KN030",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "10.0",
+        "options": [
+        {
+            "shape": "10.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/26.jpg"],
+    "modelVersion": "1KN032",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "11.0",
+        "options": [
+        {
+            "shape": "11.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "无里",
+        "options": [
+        {
+            "shape": "无里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/27.jpg"],
+    "modelVersion": "1KN036",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "11.0",
+        "options": [
+        {
+            "shape": "11.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "四扣",
+        "options": [
+        {
+            "shape": "四扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/28.jpg"],
+    "modelVersion": "1KN038",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "7.8",
+        "options": [
+        {
+            "shape": "7.8",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/29.jpg"],
+    "modelVersion": "1KN039",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "10.5",
+        "options": [
+        {
+            "shape": "10.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/30.jpg"],
+    "modelVersion": "1KN050",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "8.0",
+        "options": [
+        {
+            "shape": "8.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "四扣二",
+        "options": [
+        {
+            "shape": "四扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/31.jpg"],
+    "modelVersion": "1KN051",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "9.0",
+        "options": [
+        {
+            "shape": "9.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "六扣二",
+        "options": [
+        {
+            "shape": "六扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/32.jpg"],
+    "modelVersion": "1KN052",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "7.8",
+        "options": [
+        {
+            "shape": "7.8",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣一（下摆稍直角）",
+        "options": [
+        {
+            "shape": "二扣一（下摆稍直角）",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/33.jpg"],
+    "modelVersion": "1KN053",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "8.3",
+        "options": [
+        {
+            "shape": "8.3",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "一扣",
+        "options": [
+        {
+            "shape": "一扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "半里",
+        "options": [
+        {
+            "shape": "半里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/34.jpg"],
+    "modelVersion": "1KN056",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "青果领",
+        "options": [
+        {
+            "shape": "青果领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "7.8",
+        "options": [
+        {
+            "shape": "7.8",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "四扣二",
+        "options": [
+        {
+            "shape": "四扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/35.jpg"],
+    "modelVersion": "1KN057",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "7.8",
+        "options": [
+        {
+            "shape": "7.8",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "三扣",
+        "options": [
+        {
+            "shape": "三扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/36.jpg"],
+    "modelVersion": "1KN058",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "10.5",
+        "options": [
+        {
+            "shape": "10.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/37.jpg"],
+    "modelVersion": "1KN059",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "11.0",
+        "options": [
+        {
+            "shape": "11.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "燕尾服",
+        "options": [
+        {
+            "shape": "燕尾服",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/38.jpg"],
+    "modelVersion": "1KN061",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "7.0",
+        "options": [
+        {
+            "shape": "7.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/39.jpg"],
+    "modelVersion": "1KN063",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "12.5",
+        "options": [
+        {
+            "shape": "12.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "六扣二",
+        "options": [
+        {
+            "shape": "六扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/40.jpg"],
+    "modelVersion": "1KN064",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "13.5",
+        "options": [
+        {
+            "shape": "13.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "六扣二",
+        "options": [
+        {
+            "shape": "六扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/41.jpg"],
+    "modelVersion": "1KN065",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "9.0",
+        "options": [
+        {
+            "shape": "9.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "六扣三",
+        "options": [
+        {
+            "shape": "六扣三",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/42.jpg"],
+    "modelVersion": "1KN067",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "8.5",
+        "options": [
+        {
+            "shape": "8.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/43.jpg"],
+    "modelVersion": "1KN068",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "7.8",
+        "options": [
+        {
+            "shape": "7.8",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "三扣",
+        "options": [
+        {
+            "shape": "三扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/44.jpg"],
+    "modelVersion": "1KN072",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "10.5",
+        "options": [
+        {
+            "shape": "10.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "半里",
+        "options": [
+        {
+            "shape": "半里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/45.jpg"],
+    "modelVersion": "1KN073",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "7.3",
+        "options": [
+        {
+            "shape": "7.3",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/46.jpg"],
+    "modelVersion": "1KN075",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "7.0",
+        "options": [
+        {
+            "shape": "7.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/47.jpg"],
+    "modelVersion": "1KN076",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "8.3",
+        "options": [
+        {
+            "shape": "8.3",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "三扣",
+        "options": [
+        {
+            "shape": "三扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/48.jpg"],
+    "modelVersion": "1KN077",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "6.0",
+        "options": [
+        {
+            "shape": "6.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/49.jpg"],
+    "modelVersion": "1KN082",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "8.0",
+        "options": [
+        {
+            "shape": "8.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "六扣二",
+        "options": [
+        {
+            "shape": "六扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/50.jpg"],
+    "modelVersion": "1KN083",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "7.8",
+        "options": [
+        {
+            "shape": "7.8",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/51.jpg"],
+    "modelVersion": "1KN084",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "青果领",
+        "options": [
+        {
+            "shape": "青果领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "7.0",
+        "options": [
+        {
+            "shape": "7.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "一扣（对扣）",
+        "options": [
+        {
+            "shape": "一扣（对扣）",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/52.jpg"],
+    "modelVersion": "1KN085",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "7.8",
+        "options": [
+        {
+            "shape": "7.8",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "一扣",
+        "options": [
+        {
+            "shape": "一扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/53.jpg"],
+    "modelVersion": "1KN086",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "8.5",
+        "options": [
+        {
+            "shape": "8.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/54.jpg"],
+    "modelVersion": "1KN087",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "11.0",
+        "options": [
+        {
+            "shape": "11.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/55.jpg"],
+    "modelVersion": "1KN088",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "11.0",
+        "options": [
+        {
+            "shape": "11.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "四扣二",
+        "options": [
+        {
+            "shape": "四扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/56.jpg"],
+    "modelVersion": "1KN089",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "7.0",
+        "options": [
+        {
+            "shape": "7.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "半里",
+        "options": [
+        {
+            "shape": "半里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/57.jpg"],
+    "modelVersion": "1KN090",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "7.0",
+        "options": [
+        {
+            "shape": "7.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "六扣二",
+        "options": [
+        {
+            "shape": "六扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/58.jpg"],
+    "modelVersion": "1KN091",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "8.3",
+        "options": [
+        {
+            "shape": "8.3",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "一扣",
+        "options": [
+        {
+            "shape": "一扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "无里",
+        "options": [
+        {
+            "shape": "无里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/59.jpg"],
+    "modelVersion": "1KN092",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "6.0",
+        "options": [
+        {
+            "shape": "6.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "无里",
+        "options": [
+        {
+            "shape": "无里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/60.jpg"],
+    "modelVersion": "1KN093",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "9.0",
+        "options": [
+        {
+            "shape": "9.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "三扣",
+        "options": [
+        {
+            "shape": "三扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/61.jpg"],
+    "modelVersion": "1KN095",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "立领",
+        "options": [
+        {
+            "shape": "立领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "五扣",
+        "options": [
+        {
+            "shape": "五扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/62.jpg"],
+    "modelVersion": "1KN096",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "11.0",
+        "options": [
+        {
+            "shape": "11.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "双排六扣二",
+        "options": [
+        {
+            "shape": "双排六扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "无里",
+        "options": [
+        {
+            "shape": "无里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/63.jpg"],
+    "modelVersion": "1KN097",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "8.0",
+        "options": [
+        {
+            "shape": "8.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣一",
+        "options": [
+        {
+            "shape": "二扣一",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "半里",
+        "options": [
+        {
+            "shape": "半里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/64.jpg"],
+    "modelVersion": "1KN098",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "9.0",
+        "options": [
+        {
+            "shape": "9.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "双排六扣二",
+        "options": [
+        {
+            "shape": "双排六扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "半里",
+        "options": [
+        {
+            "shape": "半里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/65.jpg"],
+    "modelVersion": "1KN099",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "7.0",
+        "options": [
+        {
+            "shape": "7.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "半里",
+        "options": [
+        {
+            "shape": "半里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/66.jpg"],
+    "modelVersion": "1KN100",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "8.0",
+        "options": [
+        {
+            "shape": "8.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "双排四扣二",
+        "options": [
+        {
+            "shape": "双排四扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "半里",
+        "options": [
+        {
+            "shape": "半里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/67.jpg"],
+    "modelVersion": "1KN101",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "青果领",
+        "options": [
+        {
+            "shape": "青果领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "5.0",
+        "options": [
+        {
+            "shape": "5.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣一",
+        "options": [
+        {
+            "shape": "二扣一",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/68.jpg"],
+    "modelVersion": "1KN103",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "7.0",
+        "options": [
+        {
+            "shape": "7.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "无里",
+        "options": [
+        {
+            "shape": "无里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/69.jpg"],
+    "modelVersion": "1KN105",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "11.0",
+        "options": [
+        {
+            "shape": "11.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/70.jpg"],
+    "modelVersion": "1KN106",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "11.0",
+        "options": [
+        {
+            "shape": "11.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "半里",
+        "options": [
+        {
+            "shape": "半里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/71.jpg"],
+    "modelVersion": "1KN107",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "11.0",
+        "options": [
+        {
+            "shape": "11.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "三扣二",
+        "options": [
+        {
+            "shape": "三扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "无里",
+        "options": [
+        {
+            "shape": "无里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/1/72.jpg"],
+    "modelVersion": "1KN109",
+    "defaultStyles": [
+    {
+        "name": "驳头类型",
+        "key": "botouleixing",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "9.5",
+        "options": [
+        {
+            "shape": "9.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "六扣一",
+        "options": [
+        {
+            "shape": "六扣一",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "无里",
+        "options": [
+        {
+            "shape": "无里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "C",
+    "modelImages": ["modelImages/ABBO/C/1/1.jpg"],
+    "modelVersion": "5KN011",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "单排五粒扣",
+        "options": [
+        {
+            "shape": "单排五粒扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子要求",
+        "key": "lingziyaoqiu",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "无领",
+        "options": [
+        {
+            "shape": "无领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "NaN",
+        "options": [
+        {
+            "shape": "NaN",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋数",
+        "key": "koudaishu",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "两口袋",
+        "options": [
+        {
+            "shape": "两口袋",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "C",
+    "modelImages": ["modelImages/ABBO/C/1/2.jpg"],
+    "modelVersion": "5KN012",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "双排六扣",
+        "options": [
+        {
+            "shape": "双排六扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子要求",
+        "key": "lingziyaoqiu",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "无领",
+        "options": [
+        {
+            "shape": "无领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "NaN",
+        "options": [
+        {
+            "shape": "NaN",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋数",
+        "key": "koudaishu",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "两口袋",
+        "options": [
+        {
+            "shape": "两口袋",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "C",
+    "modelImages": ["modelImages/ABBO/C/1/3.jpg"],
+    "modelVersion": "5KN013",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "双排六扣",
+        "options": [
+        {
+            "shape": "双排六扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子要求",
+        "key": "lingziyaoqiu",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "有领",
+        "options": [
+        {
+            "shape": "有领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "7.5",
+        "options": [
+        {
+            "shape": "7.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋数",
+        "key": "koudaishu",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "两口袋",
+        "options": [
+        {
+            "shape": "两口袋",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "C",
+    "modelImages": ["modelImages/ABBO/C/1/4.jpg"],
+    "modelVersion": "5KN033",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "单排六粒扣",
+        "options": [
+        {
+            "shape": "单排六粒扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子要求",
+        "key": "lingziyaoqiu",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "有领",
+        "options": [
+        {
+            "shape": "有领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "4.8",
+        "options": [
+        {
+            "shape": "4.8",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋数",
+        "key": "koudaishu",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "两口袋",
+        "options": [
+        {
+            "shape": "两口袋",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "C",
+    "modelImages": ["modelImages/ABBO/C/1/5.jpg"],
+    "modelVersion": "5KN034",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "双排六扣",
+        "options": [
+        {
+            "shape": "双排六扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子要求",
+        "key": "lingziyaoqiu",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "有领",
+        "options": [
+        {
+            "shape": "有领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "5.5",
+        "options": [
+        {
+            "shape": "5.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋数",
+        "key": "koudaishu",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "两口袋",
+        "options": [
+        {
+            "shape": "两口袋",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "C",
+    "modelImages": ["modelImages/ABBO/C/1/6.jpg"],
+    "modelVersion": "5KN037",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "双排六扣三",
+        "options": [
+        {
+            "shape": "双排六扣三",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子要求",
+        "key": "lingziyaoqiu",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "有领",
+        "options": [
+        {
+            "shape": "有领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "7.0",
+        "options": [
+        {
+            "shape": "7.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋数",
+        "key": "koudaishu",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "两口袋",
+        "options": [
+        {
+            "shape": "两口袋",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "C",
+    "modelImages": ["modelImages/ABBO/C/1/7.jpg"],
+    "modelVersion": "5KN054",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "单排四粒扣",
+        "options": [
+        {
+            "shape": "单排四粒扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子要求",
+        "key": "lingziyaoqiu",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "无领",
+        "options": [
+        {
+            "shape": "无领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "NaN",
+        "options": [
+        {
+            "shape": "NaN",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋数",
+        "key": "koudaishu",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "两口袋",
+        "options": [
+        {
+            "shape": "两口袋",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "C",
+    "modelImages": ["modelImages/ABBO/C/1/8.jpg"],
+    "modelVersion": "5KN074",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "双排六扣",
+        "options": [
+        {
+            "shape": "双排六扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子要求",
+        "key": "lingziyaoqiu",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "有领",
+        "options": [
+        {
+            "shape": "有领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "7.5",
+        "options": [
+        {
+            "shape": "7.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋数",
+        "key": "koudaishu",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "两口袋",
+        "options": [
+        {
+            "shape": "两口袋",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "C",
+    "modelImages": ["modelImages/ABBO/C/1/9.jpg"],
+    "modelVersion": "5KN094",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "单排五粒扣",
+        "options": [
+        {
+            "shape": "单排五粒扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子要求",
+        "key": "lingziyaoqiu",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "有领",
+        "options": [
+        {
+            "shape": "有领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "8.5",
+        "options": [
+        {
+            "shape": "8.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋数",
+        "key": "koudaishu",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "两口袋一手巾袋",
+        "options": [
+        {
+            "shape": "两口袋一手巾袋",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "C",
+    "modelImages": ["modelImages/ABBO/C/1/10.jpg"],
+    "modelVersion": "5KN102",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "单排四粒扣",
+        "options": [
+        {
+            "shape": "单排四粒扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子要求",
+        "key": "lingziyaoqiu",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "有领",
+        "options": [
+        {
+            "shape": "有领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "7.0",
+        "options": [
+        {
+            "shape": "7.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋数",
+        "key": "koudaishu",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "两口袋一手巾袋",
+        "options": [
+        {
+            "shape": "两口袋一手巾袋",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "C",
+    "modelImages": ["modelImages/ABBO/C/1/11.jpg"],
+    "modelVersion": "5KN110",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "单排五粒扣",
+        "options": [
+        {
+            "shape": "单排五粒扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子要求",
+        "key": "lingziyaoqiu",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "有领",
+        "options": [
+        {
+            "shape": "有领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "6.3",
+        "options": [
+        {
+            "shape": "6.3",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋数",
+        "key": "koudaishu",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "两口袋",
+        "options": [
+        {
+            "shape": "两口袋",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "E",
+    "modelImages": ["modelImages/ABBO/E/1/1.jpg"],
+    "modelVersion": "4KN041",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "双排六扣二",
+        "options": [
+        {
+            "shape": "双排六扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "戗驳领",
+        "options": [
+        {
+            "shape": "戗驳领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "10.8",
+        "options": [
+        {
+            "shape": "10.8",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "E",
+    "modelImages": ["modelImages/ABBO/E/1/2.jpg"],
+    "modelVersion": "4KN042",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "二扣半",
+        "options": [
+        {
+            "shape": "二扣半",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "平驳领",
+        "options": [
+        {
+            "shape": "平驳领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "10.0",
+        "options": [
+        {
+            "shape": "10.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "E",
+    "modelImages": ["modelImages/ABBO/E/1/3.jpg"],
+    "modelVersion": "4KN043",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "二扣半",
+        "options": [
+        {
+            "shape": "二扣半",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "11.0",
+        "options": [
+        {
+            "shape": "11.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "E",
+    "modelImages": ["modelImages/ABBO/E/1/4.jpg"],
+    "modelVersion": "4KN044",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "双排六扣二",
+        "options": [
+        {
+            "shape": "双排六扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "12.5",
+        "options": [
+        {
+            "shape": "12.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "E",
+    "modelImages": ["modelImages/ABBO/E/1/5.jpg"],
+    "modelVersion": "4KN045",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "八扣四",
+        "options": [
+        {
+            "shape": "八扣四",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "翻领",
+        "options": [
+        {
+            "shape": "翻领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "E",
+    "modelImages": ["modelImages/ABBO/E/1/6.jpg"],
+    "modelVersion": "4KN046",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "双排六扣二",
+        "options": [
+        {
+            "shape": "双排六扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "10.8",
+        "options": [
+        {
+            "shape": "10.8",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "无里",
+        "options": [
+        {
+            "shape": "无里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "E",
+    "modelImages": ["modelImages/ABBO/E/1/7.jpg"],
+    "modelVersion": "4KN047",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "二扣半",
+        "options": [
+        {
+            "shape": "二扣半",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "10.5",
+        "options": [
+        {
+            "shape": "10.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "E",
+    "modelImages": ["modelImages/ABBO/E/1/8.jpg"],
+    "modelVersion": "4KN048",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "三扣",
+        "options": [
+        {
+            "shape": "三扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "9.5",
+        "options": [
+        {
+            "shape": "9.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "E",
+    "modelImages": ["modelImages/ABBO/E/1/9.jpg"],
+    "modelVersion": "4KN049",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "八扣四",
+        "options": [
+        {
+            "shape": "八扣四",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "翻领",
+        "options": [
+        {
+            "shape": "翻领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "NaN",
+        "options": [
+        {
+            "shape": "NaN",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "E",
+    "modelImages": ["modelImages/ABBO/E/1/10.jpg"],
+    "modelVersion": "4KN069",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "一明扣三暗扣",
+        "options": [
+        {
+            "shape": "一明扣三暗扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "翻领",
+        "options": [
+        {
+            "shape": "翻领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "NaN",
+        "options": [
+        {
+            "shape": "NaN",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "E",
+    "modelImages": ["modelImages/ABBO/E/1/11.jpg"],
+    "modelVersion": "4KN070",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "二扣半",
+        "options": [
+        {
+            "shape": "二扣半",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "8.5",
+        "options": [
+        {
+            "shape": "8.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "E",
+    "modelImages": ["modelImages/ABBO/E/1/12.jpg"],
+    "modelVersion": "4KN071",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "二扣半",
+        "options": [
+        {
+            "shape": "二扣半",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "7.0",
+        "options": [
+        {
+            "shape": "7.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "E",
+    "modelImages": ["modelImages/ABBO/E/1/13.jpg"],
+    "modelVersion": "4KN079",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "三扣",
+        "options": [
+        {
+            "shape": "三扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "8.0",
+        "options": [
+        {
+            "shape": "8.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "E",
+    "modelImages": ["modelImages/ABBO/E/1/14.jpg"],
+    "modelVersion": "4KN080",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "二扣半",
+        "options": [
+        {
+            "shape": "二扣半",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "10.0",
+        "options": [
+        {
+            "shape": "10.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "E",
+    "modelImages": ["modelImages/ABBO/E/1/15.jpg"],
+    "modelVersion": "4KN081",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "双排六扣二",
+        "options": [
+        {
+            "shape": "双排六扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "8.5",
+        "options": [
+        {
+            "shape": "8.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "B",
+    "modelImages": ["modelImages/ABBO/B/1/1.jpg"],
+    "modelVersion": "6KN025\n",
+    "defaultStyles": [
+    {
+        "name": "前折",
+        "key": "qianzhe",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "无褶",
+        "options": [
+        {
+            "shape": "无褶",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋",
+        "key": "koudai",
+        "required": "0",
+        "order": 1,
+        "variable": true,
+        "value": "斜插",
+        "options": [
+        {
+            "shape": "斜插",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "直插",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "裤腰样式",
+        "key": "kuyaoyangshi",
+        "required": "0",
+        "order": 2,
+        "variable": true,
+        "value": "裤袢",
+        "options": [
+        {
+            "shape": "裤袢",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "腰袢",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "脚口",
+        "key": "jiaokou",
+        "required": "0",
+        "order": 4,
+        "variable": true,
+        "value": "平撬",
+        "options": [
+        {
+            "shape": "平撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "反撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "不撬",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "B",
+    "modelImages": ["modelImages/ABBO/B/1/2.jpg"],
+    "modelVersion": "6KN026",
+    "defaultStyles": [
+    {
+        "name": "前折",
+        "key": "qianzhe",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "单褶",
+        "options": [
+        {
+            "shape": "单褶",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋",
+        "key": "koudai",
+        "required": "0",
+        "order": 1,
+        "variable": true,
+        "value": "斜插",
+        "options": [
+        {
+            "shape": "斜插",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "直插",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "裤腰样式",
+        "key": "kuyaoyangshi",
+        "required": "0",
+        "order": 2,
+        "variable": true,
+        "value": "裤袢",
+        "options": [
+        {
+            "shape": "裤袢",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "腰袢",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "脚口",
+        "key": "jiaokou",
+        "required": "0",
+        "order": 4,
+        "variable": true,
+        "value": "平撬",
+        "options": [
+        {
+            "shape": "平撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "反撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "不撬",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "B",
+    "modelImages": ["modelImages/ABBO/B/1/3.jpg"],
+    "modelVersion": "6KN031",
+    "defaultStyles": [
+    {
+        "name": "前折",
+        "key": "qianzhe",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "无褶",
+        "options": [
+        {
+            "shape": "无褶",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋",
+        "key": "koudai",
+        "required": "0",
+        "order": 1,
+        "variable": true,
+        "value": "斜插",
+        "options": [
+        {
+            "shape": "斜插",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "直插",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "裤腰样式",
+        "key": "kuyaoyangshi",
+        "required": "0",
+        "order": 2,
+        "variable": true,
+        "value": "裤袢",
+        "options": [
+        {
+            "shape": "裤袢",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "腰袢",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "脚口",
+        "key": "jiaokou",
+        "required": "0",
+        "order": 4,
+        "variable": true,
+        "value": "平撬",
+        "options": [
+        {
+            "shape": "平撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "反撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "不撬",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "B",
+    "modelImages": ["modelImages/ABBO/B/1/4.jpg"],
+    "modelVersion": "6KN035",
+    "defaultStyles": [
+    {
+        "name": "前折",
+        "key": "qianzhe",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "单褶",
+        "options": [
+        {
+            "shape": "单褶",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋",
+        "key": "koudai",
+        "required": "0",
+        "order": 1,
+        "variable": true,
+        "value": "斜插",
+        "options": [
+        {
+            "shape": "斜插",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "直插",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "裤腰样式",
+        "key": "kuyaoyangshi",
+        "required": "0",
+        "order": 2,
+        "variable": true,
+        "value": "裤袢",
+        "options": [
+        {
+            "shape": "裤袢",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "腰袢",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "脚口",
+        "key": "jiaokou",
+        "required": "0",
+        "order": 4,
+        "variable": true,
+        "value": "平撬",
+        "options": [
+        {
+            "shape": "平撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "反撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "不撬",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "B",
+    "modelImages": ["modelImages/ABBO/B/1/5.jpg"],
+    "modelVersion": "6KN055",
+    "defaultStyles": [
+    {
+        "name": "前折",
+        "key": "qianzhe",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "无褶",
+        "options": [
+        {
+            "shape": "无褶",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋",
+        "key": "koudai",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "牛仔袋",
+        "options": [
+        {
+            "shape": "牛仔袋",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "裤腰样式",
+        "key": "kuyaoyangshi",
+        "required": "0",
+        "order": 2,
+        "variable": true,
+        "value": "裤袢",
+        "options": [
+        {
+            "shape": "裤袢",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "腰袢",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "脚口",
+        "key": "jiaokou",
+        "required": "0",
+        "order": 4,
+        "variable": true,
+        "value": "平撬",
+        "options": [
+        {
+            "shape": "平撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "反撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "不撬",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "B",
+    "modelImages": ["modelImages/ABBO/B/1/6.jpg"],
+    "modelVersion": "6KN060",
+    "defaultStyles": [
+    {
+        "name": "前折",
+        "key": "qianzhe",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "无褶(短裤)",
+        "options": [
+        {
+            "shape": "无褶(短裤)",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋",
+        "key": "koudai",
+        "required": "0",
+        "order": 1,
+        "variable": true,
+        "value": "斜插",
+        "options": [
+        {
+            "shape": "斜插",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "直插",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "裤腰样式",
+        "key": "kuyaoyangshi",
+        "required": "0",
+        "order": 2,
+        "variable": true,
+        "value": "裤袢",
+        "options": [
+        {
+            "shape": "裤袢",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "腰袢",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "脚口",
+        "key": "jiaokou",
+        "required": "0",
+        "order": 4,
+        "variable": true,
+        "value": "平撬",
+        "options": [
+        {
+            "shape": "平撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "反撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "不撬",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "B",
+    "modelImages": ["modelImages/ABBO/B/1/7.jpg"],
+    "modelVersion": "6KN062",
+    "defaultStyles": [
+    {
+        "name": "前折",
+        "key": "qianzhe",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "无褶",
+        "options": [
+        {
+            "shape": "无褶",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋",
+        "key": "koudai",
+        "required": "0",
+        "order": 1,
+        "variable": true,
+        "value": "斜插",
+        "options": [
+        {
+            "shape": "斜插",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "直插",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "裤腰样式",
+        "key": "kuyaoyangshi",
+        "required": "0",
+        "order": 2,
+        "variable": true,
+        "value": "裤袢",
+        "options": [
+        {
+            "shape": "裤袢",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "腰袢",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "脚口",
+        "key": "jiaokou",
+        "required": "0",
+        "order": 4,
+        "variable": true,
+        "value": "平撬",
+        "options": [
+        {
+            "shape": "平撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "反撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "不撬",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 1,
+    "specId": "",
+    "clothingType": "B",
+    "modelImages": ["modelImages/ABBO/B/1/8.jpg"],
+    "modelVersion": "6KN111",
+    "defaultStyles": [
+    {
+        "name": "前折",
+        "key": "qianzhe",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "双褶",
+        "options": [
+        {
+            "shape": "双褶",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋",
+        "key": "koudai",
+        "required": "0",
+        "order": 1,
+        "variable": true,
+        "value": "斜插",
+        "options": [
+        {
+            "shape": "斜插",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "直插",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "裤腰样式",
+        "key": "kuyaoyangshi",
+        "required": "0",
+        "order": 2,
+        "variable": true,
+        "value": "裤袢",
+        "options": [
+        {
+            "shape": "裤袢",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "腰袢",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "脚口",
+        "key": "jiaokou",
+        "required": "0",
+        "order": 4,
+        "variable": true,
+        "value": "平撬",
+        "options": [
+        {
+            "shape": "平撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "反撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "不撬",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/0/1.jpg"],
+    "modelVersion": "1KN500",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "8.0",
+        "options": [
+        {
+            "shape": "8.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/0/2.jpg"],
+    "modelVersion": "1KN501",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "11.0",
+        "options": [
+        {
+            "shape": "11.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/0/3.jpg"],
+    "modelVersion": "1KN502",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "8.3",
+        "options": [
+        {
+            "shape": "8.3",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/0/4.jpg"],
+    "modelVersion": "1KN503",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "单排一扣",
+        "options": [
+        {
+            "shape": "单排一扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "青果领",
+        "options": [
+        {
+            "shape": "青果领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "8.3",
+        "options": [
+        {
+            "shape": "8.3",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/0/5.jpg"],
+    "modelVersion": "1KN504",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "双排二扣一",
+        "options": [
+        {
+            "shape": "双排二扣一",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "青果领",
+        "options": [
+        {
+            "shape": "青果领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "7.5",
+        "options": [
+        {
+            "shape": "7.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/0/6.jpg"],
+    "modelVersion": "1KN505",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "双排六扣二",
+        "options": [
+        {
+            "shape": "双排六扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "11.5",
+        "options": [
+        {
+            "shape": "11.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/0/7.jpg"],
+    "modelVersion": "1KN506",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "双排二扣一",
+        "options": [
+        {
+            "shape": "双排二扣一",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "8.0",
+        "options": [
+        {
+            "shape": "8.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/0/8.jpg"],
+    "modelVersion": "1KN510",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "7.0",
+        "options": [
+        {
+            "shape": "7.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/0/9.jpg"],
+    "modelVersion": "1KN511",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "二扣一",
+        "options": [
+        {
+            "shape": "二扣一",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "7.5",
+        "options": [
+        {
+            "shape": "7.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "半里",
+        "options": [
+        {
+            "shape": "半里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/0/10.jpg"],
+    "modelVersion": "1KN512",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "二扣",
+        "options": [
+        {
+            "shape": "二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "7.0",
+        "options": [
+        {
+            "shape": "7.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "半里",
+        "options": [
+        {
+            "shape": "半里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/0/12.jpg"],
+    "modelVersion": "1KN514",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "双排六扣一",
+        "options": [
+        {
+            "shape": "双排六扣一",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "8.5",
+        "options": [
+        {
+            "shape": "8.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "半里",
+        "options": [
+        {
+            "shape": "半里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/0/13.jpg"],
+    "modelVersion": "1KN515",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "双排四扣二",
+        "options": [
+        {
+            "shape": "双排四扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "11.5",
+        "options": [
+        {
+            "shape": "11.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/0/14.jpg"],
+    "modelVersion": "1KN518",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "一扣",
+        "options": [
+        {
+            "shape": "一扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "8.0",
+        "options": [
+        {
+            "shape": "8.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/0/15.jpg"],
+    "modelVersion": "1KN519",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "双排六扣二",
+        "options": [
+        {
+            "shape": "双排六扣二",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "11.5",
+        "options": [
+        {
+            "shape": "11.5",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "A",
+    "modelImages": ["modelImages/ABBO/A/0/16.jpg"],
+    "modelVersion": "1KN520",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "一扣",
+        "options": [
+        {
+            "shape": "一扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "平驳头",
+        "options": [
+        {
+            "shape": "平驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "6.0",
+        "options": [
+        {
+            "shape": "6.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "B",
+    "modelImages": ["modelImages/ABBO/B/0/1.jpg"],
+    "modelVersion": "6GW003（小脚裤）",
+    "defaultStyles": [
+    {
+        "name": "前折",
+        "key": "qianzhe",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "无褶",
+        "options": [
+        {
+            "shape": "无褶",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋",
+        "key": "koudai",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "斜插",
+        "options": [
+        {
+            "shape": "斜插",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "裤腰样式",
+        "key": "kuyaoyangshi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "无",
+        "options": [
+        {
+            "shape": "无",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "脚口",
+        "key": "jiaokou",
+        "required": "0",
+        "order": 4,
+        "variable": true,
+        "value": "平撬",
+        "options": [
+        {
+            "shape": "平撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "反撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "不撬",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "B",
+    "modelImages": ["modelImages/ABBO/B/0/2.jpg"],
+    "modelVersion": "6GW004（喇叭裤）",
+    "defaultStyles": [
+    {
+        "name": "前折",
+        "key": "qianzhe",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "无褶",
+        "options": [
+        {
+            "shape": "无褶",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋",
+        "key": "koudai",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "斜插",
+        "options": [
+        {
+            "shape": "斜插",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "裤腰样式",
+        "key": "kuyaoyangshi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "无",
+        "options": [
+        {
+            "shape": "无",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "脚口",
+        "key": "jiaokou",
+        "required": "0",
+        "order": 4,
+        "variable": true,
+        "value": "平撬",
+        "options": [
+        {
+            "shape": "平撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "不撬",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "B",
+    "modelImages": ["modelImages/ABBO/B/0/3.jpg"],
+    "modelVersion": "6KN508（6GW003牛仔袋）",
+    "defaultStyles": [
+    {
+        "name": "前折",
+        "key": "qianzhe",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "无褶 ",
+        "options": [
+        {
+            "shape": "无褶 ",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋",
+        "key": "koudai",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "牛仔袋",
+        "options": [
+        {
+            "shape": "牛仔袋",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "裤腰样式",
+        "key": "kuyaoyangshi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "裤袢",
+        "options": [
+        {
+            "shape": "裤袢",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "脚口",
+        "key": "jiaokou",
+        "required": "0",
+        "order": 4,
+        "variable": true,
+        "value": "平撬",
+        "options": [
+        {
+            "shape": "平撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "反撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "不撬",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "B",
+    "modelImages": ["modelImages/ABBO/B/0/4.jpg"],
+    "modelVersion": "6KN509（阔腿裤）",
+    "defaultStyles": [
+    {
+        "name": "前折",
+        "key": "qianzhe",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "无褶 ",
+        "options": [
+        {
+            "shape": "无褶 ",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋",
+        "key": "koudai",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "直插袋",
+        "options": [
+        {
+            "shape": "直插袋",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "裤腰样式",
+        "key": "kuyaoyangshi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "裤袢",
+        "options": [
+        {
+            "shape": "裤袢",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "脚口",
+        "key": "jiaokou",
+        "required": "0",
+        "order": 4,
+        "variable": true,
+        "value": "平撬",
+        "options": [
+        {
+            "shape": "平撬",
+            "size": "",
+            "imageUrl": ""
+        },
+        {
+            "shape": "不撬",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "B",
+    "modelImages": ["modelImages/ABBO/B/0/5.jpg"],
+    "modelVersion": "0303MOD",
+    "defaultStyles": [
+    {
+        "name": "前折",
+        "key": "qianzhe",
+        "required": "0",
+        "order": 0,
+        "variable": false,
+        "value": "单褶",
+        "options": [
+        {
+            "shape": "单褶",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋",
+        "key": "koudai",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "双省",
+        "options": [
+        {
+            "shape": "双省",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "裤腰样式",
+        "key": "kuyaoyangshi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "后中开叉",
+        "options": [
+        {
+            "shape": "后中开叉",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "脚口",
+        "key": "jiaokou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "无",
+        "options": [
+        {
+            "shape": "无",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "E",
+    "modelImages": ["modelImages/ABBO/E/0/1.jpg"],
+    "modelVersion": "4KN507",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "单排二扣",
+        "options": [
+        {
+            "shape": "单排二扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子",
+        "key": "lingzi",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "平驳领",
+        "options": [
+        {
+            "shape": "平驳领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "10.0",
+        "options": [
+        {
+            "shape": "10.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "里布结构",
+        "key": "libujiegou",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "全里",
+        "options": [
+        {
+            "shape": "全里",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "C",
+    "modelImages": ["modelImages/ABBO/C/0/1.jpg"],
+    "modelVersion": "5KN513",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "双排六扣",
+        "options": [
+        {
+            "shape": "双排六扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子要求",
+        "key": "lingziyaoqiu",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "戗驳头",
+        "options": [
+        {
+            "shape": "戗驳头",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "6.0",
+        "options": [
+        {
+            "shape": "6.0",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋数",
+        "key": "koudaishu",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "两口袋",
+        "options": [
+        {
+            "shape": "两口袋",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "C",
+    "modelImages": ["modelImages/ABBO/C/0/2.jpg"],
+    "modelVersion": "5KN516",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "双排六扣",
+        "options": [
+        {
+            "shape": "双排六扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子要求",
+        "key": "lingziyaoqiu",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "无领",
+        "options": [
+        {
+            "shape": "无领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "NaN",
+        "options": [
+        {
+            "shape": "NaN",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋数",
+        "key": "koudaishu",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "两口袋",
+        "options": [
+        {
+            "shape": "两口袋",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+},
+{
+    "_class": "cn.com.icaifeng.model.style.FactoryClothingModelStyleDef",
+    "factoryNumber": "ABBO",
+    "gender": 0,
+    "specId": "",
+    "clothingType": "C",
+    "modelImages": ["modelImages/ABBO/C/0/3.jpg"],
+    "modelVersion": "5KN517",
+    "defaultStyles": [
+    {
+        "name": "纽扣数",
+        "key": "niukoushu",
+        "required": "0",
+        "order": 1,
+        "variable": false,
+        "value": "五扣",
+        "options": [
+        {
+            "shape": "五扣",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "领子要求",
+        "key": "lingziyaoqiu",
+        "required": "0",
+        "order": 2,
+        "variable": false,
+        "value": "无领",
+        "options": [
+        {
+            "shape": "无领",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "驳宽",
+        "key": "bokuan",
+        "required": "0",
+        "order": 3,
+        "variable": false,
+        "value": "NaN",
+        "options": [
+        {
+            "shape": "NaN",
+            "size": "",
+            "imageUrl": ""
+        }]
+    },
+    {
+        "name": "口袋数",
+        "key": "koudaishu",
+        "required": "0",
+        "order": 4,
+        "variable": false,
+        "value": "两口袋",
+        "options": [
+        {
+            "shape": "两口袋",
+            "size": "",
+            "imageUrl": ""
+        }]
+    }]
+}]
